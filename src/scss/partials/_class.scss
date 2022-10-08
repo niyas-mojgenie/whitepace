@@ -1,0 +1,35 @@
+.navtext {
+  font-family: "DM Sans", sans-serif;
+
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+}
+
+.navbutton{
+    @extend.navtext;
+    font-family: 'Inter', sans-serif;
+    color: #043873
+    ;
+    
+
+}
+.navbutton2{
+    @extend.navtext;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF
+
+    ;
+    
+
+}
+.head{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    
+}
